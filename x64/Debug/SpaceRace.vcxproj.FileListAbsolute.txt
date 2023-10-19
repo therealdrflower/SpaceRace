@@ -1,0 +1,3 @@
+C:\Users\timur\desktop\sln\SpaceRace\x64\Debug\SpaceRace.vcxproj.CopyComplete
+C:\Users\timur\desktop\sln\SpaceRace\x64\Debug\SpaceRace.exe
+C:\Users\timur\desktop\sln\SpaceRace\x64\Debug\raylib.dll
